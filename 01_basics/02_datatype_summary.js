@@ -25,3 +25,15 @@ console.log(scoree)
 
 // #NON PRIMITIVE or REFRENCE TYPE
 // array, objects, functions
+
+const heros = ["iron-man", "captain america", "black widow", "shaktiman"]
+
+let myObject = {
+        name : "samarth",
+        age : 22,
+}
+
+const myFunction = function(){
+    console.log("hello world")
+}
+// to get the type of the datatype use 'typeof'
